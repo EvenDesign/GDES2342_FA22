@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://use.typekit.net/xkm0juc.css">
+	<link rel="stylesheet" href="solitude.css">
+<meta charset="utf-8">
+<title>Solitude</title>
+<link rel="icon" type="image/x-icon" href="D:\Art Center\favicon.ico">
+</head>
+
+<body>
+	<div class="top-nav">
+		<div class="logo"><h1>Solitude</h1>
+			<h2>CENTER FOR THE ARTS</h2></div>
+		<a href="#">Classes</a>
+		<a href="#">Events</a>
+		<a href="#">Shop</a>
+		<a href="#">Support</a>
+		<a href="#">Cart</a>
+	</div>
+	
+	<div class="hero"><button id="visit">VISIT THE GALLERY</button></div>
+	
+	<div class="first-feature">
+		<div class="classes">
+	<div class="image"><h1>CLASSES</h1></div>
+		</div>
+		<div class="descriptive-text">
+		<h1>MEET US IN <br> THE CLASSROOM</h1>
+		<p>Courses are available to all community members - of all ages - regardless of Solitude Membership</p>
+		<button>COURSE CATELOG</button>
+			</div>
+			</div>
+	
+	<div class="second-feature">
+		<div class="descriptive-text" id="second-feature">
+		<h1>PENCIL US IN</h1>
+		<p>Celebrations, guest speakers, gallery events, fundraisers - there's a little something for everybody</p>
+		<button>CALENDAR</button>
+			</div>
+		<div class="classes">
+	<div class="image-two"><h1>EVENTS</h1></div>
+		</div>
+			</div>
+	
+	<div class="shop">
+	<h1>SHOP OUR ARTISTS' WORK</h1>
+		<hr>
+		<div class="shop-examples">
+			<div class="card">
+			<img src="brian-wangenheim-Zl_jomkCYGI-unsplash.jpg" width="350px" height="450px">
+				<h3>Silver Locket</h3>
+			</div>
+				<div class="card">
+			<img src="brian-wangenheim-Zl_jomkCYGI-unsplash.jpg" width="350px" height="450px">
+				<h3>Silver Locket</h3>
+			</div>
+				<div class="card">
+			<img src="brian-wangenheim-Zl_jomkCYGI-unsplash.jpg" width="350px" height="450px">
+				<h3>Silver Locket</h3>
+			</div>
+			
+		</div>
+
+		
+		</div>
+			<div class="see-more"><button id="see-more">SEE MORE</button></div>
+
+	</div>
+			
+
+	
+</body>
+</html>
